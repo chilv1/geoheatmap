@@ -1,0 +1,5 @@
+{
+  "name": "GeoHeatmap KMZ Generator",
+  "description": "Converts telecommunication CSV data into density heatmaps packed in a KMZ file for Google Earth.",
+  "requestFramePermissions": []
+}
